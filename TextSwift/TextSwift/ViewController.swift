@@ -56,7 +56,7 @@ class ViewController: UIViewController , TextViewDeiegete {
         
 //        self.pushVC();
         
-        self.title = "text1";
+        self.title = "测试github";
         
         
 //        print("The number is divisible by \(division[9]) times")
